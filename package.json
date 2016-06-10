@@ -1,0 +1,19 @@
+{
+  "name": "monkey",
+  "version": "0.0.1",
+  "description": "A stupid incremental template engine.",
+  "main": "monkey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dz902/monkey.git"
+  },
+  "author": "Zhang Dai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dz902/monkey/issues"
+  },
+  "homepage": "https://github.com/dz902/monkey#readme"
+}
