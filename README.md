@@ -1,2 +1,3 @@
-# monkeyjs
-Stupid incremental template engine.
+# Monkey
+
+Please proceed to this Gitbook: https://dz902.gitbooks.io/monkey-js/content/
