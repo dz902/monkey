@@ -1,8 +1,8 @@
 {
   "name": "monkey",
-  "version": "0.0.1",
-  "description": "A stupid incremental template engine.",
-  "main": "monkey.js",
+  "version": "0.9.0",
+  "description": "A stupid template engine.",
+  "main": "src/monkey.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
